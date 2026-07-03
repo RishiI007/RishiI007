@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Rishabh Bamne
 
-<!--
-**RishiI007/RishiI007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Electronics & Instrumentation Engineering student at NIT Silchar
 
-Here are some ideas to get you started:
+💻 Passionate about Full Stack Development and Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently learning Backend Development, AI, and System Design
+
+## 🛠 Tech Stack
+
+- JavaScript
+- React
+- Next.js
+- Tailwind CSS
+- Node.js
+- Git
+- GitHub
+
+## 🌱 Currently Learning
+- LangGraph
+- Express.js
+- Docker
+- Open Source Contribution
+
+## 📫 Connect with me
+
+- LinkedIn: [<Rishabh_Bamne>](https://www.linkedin.com/in/rishabh-bamne-394018316/)
